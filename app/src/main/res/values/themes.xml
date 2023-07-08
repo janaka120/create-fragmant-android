@@ -1,0 +1,8 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FirstFragmentApplication" parent="Theme.MaterialComponents.Light.DarkActionBar.Bridge">
+
+    </style>
+
+    <style name="Theme.FirstFragmentApplication" parent="Base.Theme.FirstFragmentApplication" />
+</resources>
