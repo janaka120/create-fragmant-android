@@ -11,6 +11,6 @@ How to Create an Android Fragment
 
 ## Installation
 
-1. Clone the repository: **git clone git@github.com:janaka120/create_fragmant_android.git**
+1. Clone the repository: **git clone git@github.com:janaka120/create-fragment-android.git**
 2. Open the project in Android Studio.
 3. Build and run the application on an Android device or emulator.
